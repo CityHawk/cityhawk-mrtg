@@ -1,1 +1,1 @@
-*/5 * * * * /usr/bin/mrtg /etc/mrtg.cfg --logging /var/log/mrtg.log
+*/5 * * * * /usr/bin/mrtg /etc/mrtg/mrtg.cfg --logging /var/log/mrtg.log
